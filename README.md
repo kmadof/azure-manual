@@ -18,9 +18,10 @@
 
     **SQL queries** - You can query data by writing queries using the Structured Query Language (SQL) as a JSON query language. Queries always cost at least 2.3 request units and, in general, will have a higher and more variable latency than point reads. Queries can return many items.
 
-    [Understanding the difference between point reads and queries in Azure Cosmos DB](https://devblogs.microsoft.com/cosmosdb/point-reads-versus-queries/)
-    [Understanding the difference between null and undefined in Azure Cosmos DB](https://devblogs.microsoft.com/cosmosdb/difference-between-null-and-undefined/)
-    [Understanding how to query arrays in Azure Cosmos DB](https://devblogs.microsoft.com/cosmosdb/understanding-how-to-query-arrays-in-azure-cosmos-db/)
+    [Understanding the difference between point reads and queries in Azure Cosmos DB](https://devblogs.microsoft.com/cosmosdb/point-reads-versus-queries/)</br>
+    [Understanding the difference between null and undefined in Azure Cosmos DB](https://devblogs.microsoft.com/cosmosdb/difference-between-null-and-undefined/)</br>
+    [Understanding how to query arrays in Azure Cosmos DB](https://devblogs.microsoft.com/cosmosdb/understanding-how-to-query-arrays-in-azure-cosmos-db/)</br>
+    [Release note](https://docs.microsoft.com/en-us/azure/cosmos-db/sql-api-sdk-dotnet-standard)</br>
 
         
 
